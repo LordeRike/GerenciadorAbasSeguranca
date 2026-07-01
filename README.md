@@ -1,0 +1,2 @@
+Exercício 1: Gerenciador de Abas de Segurança (Uso de sub-painéis)
+Crie uma aplicação desktop cuja janela tenha o título "Módulo de Segurança", tamanho 350x200 e centralizada. Crie um JPanel com fundo customizado contendo o rótulo "Alarme Residencial:" e o botão "ATIVAR". Crie um segundo JPanel contendo o rótulo "Câmeras Internas:" e o botão "Visualizar". Adicione os dois painéis na janela. Quando o botão "ATIVAR" for clicado, mude o texto do seu respectivo rótulo para "Alarme Residencial: LIGADO".
